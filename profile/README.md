@@ -24,7 +24,7 @@ If you are a user or contributor who is younger than 13 years, or younger than 1
 
 Imagine you are a young, skilled hacker who wants to contribute to the software running at your school, but the project uses GitHub. So you have to wait until you are old enough, even though you do have the skills now. Or imagine that, at the time of writing, you are living in Russia. You probably are a friendly and liberal person, and probably you don't agree with your government's actions in Ukraine. Yet, because your government is at a self-declared war against Ukraine and its allies, you are now excluded from contributing to your favourite project.
 
-Microsoft could change its policies by properly separating its commercial interests from their free software hsoting activities. AlekSIS' founding organisation, [Teckids](https://teckids.org), has been in contact with Microsoft's legal and marketing departments. They agree that the solutions would be simple, but that they don't want them.
+Microsoft could change its policies by properly separating its commercial interests from their free software hosting activities. AlekSIS' founding organisation, [Teckids](https://teckids.org), has been in contact with Microsoft's legal and marketing departments. They agree that the solutions would be simple, but that they don't want them.
 
 AlekSIS is supposed to be a platform for learning in every regard – it helps organise learning, but it also can be a tool for learning itself. We do not exclude anyone depending on their age or origin.
 
